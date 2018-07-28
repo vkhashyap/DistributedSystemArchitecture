@@ -1,0 +1,108 @@
+Jul 28, 2018 5:35:30 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: aa Last name: aa Address: aaa Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 5:35:30 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 5:36:12 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: xx Last name: xxx Address: xxx Phone number: 1234567807 Specialization: maths location: mtl
+
+Jul 28, 2018 5:36:13 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record failed from the server due to some validation errors
+
+Jul 28, 2018 5:57:55 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: a Last name: a Address: a Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 5:57:55 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 5:58:30 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: w Last name: e Address: e Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 5:58:31 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record failed from the server due to some validation errors
+
+Jul 28, 2018 7:00:28 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: vv Last name: ff Address: gg Phone number: 1234567890 Specialization: maths location: MTL
+
+Jul 28, 2018 7:00:28 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 7:00:57 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: cc Last name: ccc Address: ccc Phone number: 1234567890 Specialization: maths location: MTL
+
+Jul 28, 2018 7:00:59 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record failed from the server due to some validation errors
+
+Jul 28, 2018 7:09:24 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: c Last name: d Address: d Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 7:09:25 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record failed from the server due to some validation errors
+
+Jul 28, 2018 7:16:05 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: a Last name: aaa Address: aaa Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 7:16:05 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 7:16:38 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: as Last name: ss Address: ss Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 7:16:39 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record failed from the server due to some validation errors
+
+Jul 28, 2018 7:24:33 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: d Last name: dd Address: dd Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 7:24:33 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 8:19:43 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: ss Last name: dd Address: ff Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 8:19:43 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 8:51:37 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: wqw Last name: qwq Address: wwq Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 8:51:37 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:00:14 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: dd Last name: dd Address: ddd Phone number: 1234560789 Specialization: maths location: mtl
+
+Jul 28, 2018 9:00:14 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:13:26 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: vv Last name: vvv Address: vvv Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 9:13:27 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:16:32 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: bb Last name: vv Address: cc Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 9:16:32 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:39:24 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: hh Last name: hh Address:  Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 9:39:24 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:40:39 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: gh Last name: gg Address: gg Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 9:40:40 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+
+Jul 28, 2018 9:50:13 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: fdfd Last name: gfgf Address: gfdgf Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 9:50:13 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+

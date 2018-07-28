@@ -1,0 +1,102 @@
+Jul 28, 2018 5:32:44 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 5:35:30 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: aa Last Name: aa Address: aaa Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 5:57:25 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 5:57:55 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: a Last Name: a Address: a Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 7:00:04 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:00:28 AM server.MTLServer3 createTRecord
+INFO: MTL1234 created Teacher record with values: Id: TR10003 First Name: vv Last Name: ff Address: gg Phone: 1234567890 Specialization: maths Location: MTL
+
+Jul 28, 2018 7:08:44 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:15:41 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:16:05 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: a Last Name: aaa Address: aaa Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 7:17:19 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:24:00 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:24:13 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:24:33 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: d Last Name: dd Address: dd Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 7:27:34 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:27:54 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 7:54:18 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:18:03 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:19:19 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:19:43 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: ss Last Name: dd Address: ff Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 8:21:54 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:23:32 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:26:11 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:35:21 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:36:56 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:37:14 AM server.MTLServer3 createTRecord
+INFO: mtl2345 created Teacher record with values: Id: TR10003 First Name: s Last Name: f Address: g Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 8:40:49 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:45:43 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:50:58 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 8:51:37 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: wqw Last Name: qwq Address: wwq Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 8:59:40 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:00:14 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: dd Last Name: dd Address: ddd Phone: 1234560789 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:10:18 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:12:39 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:13:27 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: vv Last Name: vvv Address: vvv Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:15:28 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:16:32 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: bb Last Name: vv Address: cc Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:24:29 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:38:20 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:39:24 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: hh Last Name: hh Address:  Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:39:54 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:40:40 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: gh Last Name: gg Address: gg Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:49:39 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015
+Jul 28, 2018 9:50:13 AM server.MTLServer3 createTRecord
+INFO: mtl1234 created Teacher record with values: Id: TR10003 First Name: fdfd Last Name: gfgf Address: gfdgf Phone: 1234567890 Specialization: maths Location: mtl
+
+Jul 28, 2018 9:51:03 AM server.MTLServer3 main
+INFO: Dummy Student record is created for testing with values: Id: ST10000 First Name: 'mtlFirstName Last Name: mtlLastName Course Registered: maths Status: active Status Date: 11/11/2015

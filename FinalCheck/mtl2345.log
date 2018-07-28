@@ -1,0 +1,6 @@
+Jul 28, 2018 8:37:14 AM client.ManagerClient createTRecord
+INFO: Sending request to create Teacher Record with First Name: s Last name: f Address: g Phone number: 1234567890 Specialization: maths location: mtl
+
+Jul 28, 2018 8:37:14 AM client.ManagerClient createTRecord
+INFO: Request to create Teacher record completed successfully
+

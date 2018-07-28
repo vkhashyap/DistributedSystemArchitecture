@@ -1,0 +1,16 @@
+module CenterServerModule
+{
+
+	interface ICenterServer
+	{
+		boolean createTRecord(in string firstName,in string lastName,in string address,in string phone,in string specialization,in string location,in string managerId);
+		boolean createSRecord(in string firstName,in string lastName,in string courseRegistered,in string status,in string statusDate, in string managerId);
+		string getRecordCounts(in string managerId);
+		string editRecord(in string recordId,in string fieldName,in string newValue,in string managerId);
+		string editListRecord(in string recordId,in string fieldName,in string newValue,in string managerId);
+		boolean transferRecord(in string managerId, in string recordId, in string targetCenterName);
+		void printHashMap();
+		void killThreads();
+		oneway void shutdown();
+	};
+};
