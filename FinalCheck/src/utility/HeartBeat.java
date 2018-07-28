@@ -56,7 +56,7 @@ public class HeartBeat extends Thread implements ActionListener {
 
 			DatagramPacket heartBeatPacket = new DatagramPacket(message, message.length, host, dest);
 			datagramSocket.send(heartBeatPacket);
-			System.out.println("heartbeat : " + origin + " is live");
+//			System.out.println("heartbeat : " + origin + " is live");
 
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
@@ -88,7 +88,7 @@ public class HeartBeat extends Thread implements ActionListener {
 				DatagramPacket heartBeat = new DatagramPacket(buffer, buffer.length);
 				datagramSocket.receive(heartBeat);
 				String source = new String(heartBeat.getData());
-				System.out.println("FailureDetector:  " + source.trim() + " is alive");
+//				System.out.println("FailureDetector:  " + source.trim() + " is alive");
 				
 				switch(origin)
 				{
